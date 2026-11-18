@@ -1,0 +1,13 @@
+{
+    "name": "cpo-spec-assist",
+    "owner": {
+        "name": "ignite-plan"
+    },
+    "plugins": [
+        {
+            "name": "cpo-spec-assist",
+            "description": "CPO BO 기획서 작업(목업, description)에 필요한 규칙과 지식을 작업 중에 자동으로 읽어 적용한다",
+            "source": "./"
+        }
+    ]
+}

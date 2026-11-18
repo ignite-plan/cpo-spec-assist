@@ -1,0 +1,7 @@
+{
+  "name": "cpo-spec-assist",
+  "displayName": "기획 작업 규칙",
+  "version": "1.0.0",
+  "description": "CPO BO 기획서 작업(목업, description)에 필요한 규칙과 지식을 작업 중에 자동으로 읽어 적용한다",
+  "skills": "./skills/"
+}

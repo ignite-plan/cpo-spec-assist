@@ -1,0 +1,7 @@
+.DS_Store
+
+# 작업 산출물(요건 원문 포함)
+cpo-bo-spec-draft-*/
+
+# 로컬 전용 안내 문서
+docs/

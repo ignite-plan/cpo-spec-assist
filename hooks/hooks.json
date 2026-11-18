@@ -1,0 +1,15 @@
+{
+  "description": "기획 작업 시 cpo-mockup, cpo-description 스킬을 먼저 읽도록 세션 시작 때 안내를 주입한다.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cat \"${CLAUDE_PLUGIN_ROOT}/hooks/session-note.txt\""
+          }
+        ]
+      }
+    ]
+  }
+}
